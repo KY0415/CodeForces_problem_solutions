@@ -27,7 +27,7 @@ int main()
             cnt--;
         }
     }
-
+//git push try
     cout<<cnt;
 
 }
